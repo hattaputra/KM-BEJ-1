@@ -1,5 +1,5 @@
 #Workflow name
-name: CI/CD Pipeline
+name: Main CI/CD Pipeline
 on:
   #Manually trigger workflow runs
   workflow_dispatch:
